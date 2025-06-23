@@ -25,6 +25,12 @@ Se realizaron los siguientes ajustes:
 - Navegación por teclado mediante Bootstrap.
 - Diseño responsivo que adapta los contenidos para usuarios en diferentes dispositivos (evitando desplazamiento horizontal).
 
+## 🔗 Enlaces
+
+- 🔴 **GitHub Pages:** [https://freddyguapi.github.io/](https://freddyguapi.github.io/)
+- 🎨 **Diseño en Figma:** [https://www.figma.com/design/jBzcVfxeAnoUp6n5e0vEgx/Untitled--Copy-?node-id=31-27&t=BhzgH5vdK6GXcxEc-0](https://www.figma.com/design/jBzcVfxeAnoUp6n5e0vEgx/Untitled--Copy-?node-id=31-27&t=BhzgH5vdK6GXcxEc-0)
+
+
 ## 📂 Estructura de Archivos
 
 - `index.html`: página principal del portafolio.
