@@ -37,9 +37,36 @@ Se realizaron los siguientes ajustes:
 - `styles.css`: estilos personalizados.
 - `README.md`: este archivo.
 
-## 🚀 Cómo visualizar
+# 🔍 Seguimiento Visual con Mapa de Calor
 
-Simplemente abre `index.html` en cualquier navegador moderno. No requiere servidor web.
+Este proyecto implementa un sistema de seguimiento ocular que detecta las zonas más observadas por el usuario en una página web, utilizando **WebGazer.js** para capturar la mirada y **Heatmap.js** para visualizar los datos en forma de mapa de calor.
+
+---
+
+## 🚀 ¿Cómo ejecutarlo?
+
+1. Clona o descarga este repositorio.
+2. Abre el archivo `index.html` en tu navegador preferido.
+3. Otorga permisos para usar la cámara cuando lo solicite.
+4. Navega por la página normalmente.
+5. Pulsa el botón **“Detener seguimiento”** para ver el mapa de calor generado.
+6. Se mostrará el mapa en un **popup**.
+
+---
+
+## 🛠️ Librerías utilizadas
+
+- [📦 WebGazer.js](https://webgazer.cs.brown.edu/) – Seguimiento de mirada en tiempo real.
+- [📦 Heatmap.js](https://www.patrick-wied.at/static/heatmapjs/) – Visualización del mapa de calor.
+- HTML5, CSS3 y JavaScript puro.
+
+---
+
+## 🖼️ Captura de pantalla
+
+Aquí se muestra una vista del mapa de calor generado:
+
+![Captura del Mapa de Calor](Mapa_de_calor.png)
 
 ---
 
